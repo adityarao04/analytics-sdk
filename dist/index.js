@@ -1,0 +1,1 @@
+(()=>{"use strict";sumOfTwo=(s,t)=>s+t})();
